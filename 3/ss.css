@@ -1,0 +1,87 @@
+
+    body {
+      background-image: url("i3.jpg");
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+     
+    }
+    
+        .login{
+          margin-left: 200px;
+        }
+
+        #d{
+         font-size: smaller;
+          font-family: 'Times New Roman', Times, serif;
+          font-weight: bold;
+        }
+
+          .but{
+            display: inline-block;
+            color:aqua;
+            font-size: larger;
+          
+          padding: 14px 16px;
+          text-decoration: none;
+
+          }
+          .but:hover{
+            background-color: rgb(12, 250, 139);
+            color:black;
+          }
+
+          .button {
+            background-color: lightblue;
+            border: none;
+            color:black;
+            padding: 14px 16px;
+            text-align: center;
+            text-decoration: none;
+            display:block;
+            font-size: larger;
+            
+            cursor: pointer;
+            
+          }
+          .button{
+            display:inline-block;
+            margin-left: 50px;
+       }
+       .button:hover  {
+        background-color:aquamarine;
+        color: violet;
+        }
+       
+        img1:hover{
+          zoom:110%;
+        }
+          #t
+          {
+              color:cyan;
+              font-size:larger;
+          }
+          button{
+			float:center;
+			background-color:aquamarine;
+			border:0px;
+			padding:8px;
+            border-radius: 50pt;
+			
+		}
+		fieldset{
+			border-radius: 20px;
+		}
+        #c {
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+            overflow: hidden;
+            background-color:lightblue;
+       }
+        
+       .wel{
+        font-size: 50pt;
+        text-align: center;
+        color:aliceblue;
+        font-style: italic;
+    }
